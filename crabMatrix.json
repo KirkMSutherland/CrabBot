@@ -1,0 +1,65 @@
+{
+  "confident" : {
+    "analytical" : "https://i.etsystatic.com/12348616/r/il/341f99/904130604/il_1140xN.904130604_1p1c.jpg",
+    "joy" : "https://tenor.com/6yk9.gif",
+    "confident" : "https://imagevars.gulfnews.com/2019/07/05/Crab_16bc2f38eb6_large.jpg",
+    "anger" :"https://tenor.com/51JZ.gif",
+    "sadness" : "https://media.giphy.com/media/b53xiN5B5blvi/giphy.gif",
+    "tentative" : "https://media.giphy.com/media/nPTXD4lJmDSTe/giphy.gif",
+    "fear": "https://tenor.com/qVmS.gif"
+  },
+  "joy" : {
+    "joy" : "https://media.giphy.com/media/yYrYPXatpCMiA/giphy.gif",
+    "confident" : "https://www.thesprucepets.com/thmb/FHJauj4XDsqs6Scinx8C7rjddMc=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fiddler-crab-134252510-57ffec745f9b5805c2b0f356.jpg",
+    "tentative" : "https://media.giphy.com/media/nPTXD4lJmDSTe/giphy.gif",
+    "sadness": "https://media.giphy.com/media/b53xiN5B5blvi/giphy.gif",
+    "analytical": "https://media.giphy.com/media/b53xiN5B5blvi/giphy.gif",
+    "anger": "https://media.giphy.com/media/b53xiN5B5blvi/giphy.gif",
+    "fear": "https://tenor.com/Yya1.gif"
+  },
+  "fear" : {
+    "analytical" : "https://acs-h.assetsadobe.com/is/image//content/dam/cen/96/19/09619-scicon8-crab.jpg",
+    "fear" : "https://i.pinimg.com/originals/22/aa/22/22aa2253ddf77b359a8d2fa7d3aca816.jpg",
+    "anger": "",
+    "tentative": "https://www.physicsforums.com/attachments/coconut_crab-jpg.127943/",
+    "confident": "https://tenor.com/qVmS.gif",
+    "sadness": "https://tenor.com/qVmS.gif",
+    "joy": "https://www.physicsforums.com/attachments/coconut_crab-jpg.127943/"
+  },
+  "anger" :{
+    "anger": "https://s.yimg.com/ny/api/res/1.2/fcU9Q8ZbhR_G75L2W50X2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM1My40NzkxNjY2NjY2NjY3/https://s.yimg.com/uu/api/res/1.2/JfK.uDwWqG6fa5RyKsgY8Q--~B/aD03MjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/hearst_mens_health_171/eba4cdd91300edf94ead3175ba89437b",
+    "fear" : "https://tenor.com/Yya1.gif",
+    "joy" : "https://tenor.com/Yya1.gif",
+    "sadness" : "https://tenor.com/Yya1.gif",
+    "analytical" : "https://s.yimg.com/ny/api/res/1.2/fcU9Q8ZbhR_G75L2W50X2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM1My40NzkxNjY2NjY2NjY3/https://s.yimg.com/uu/api/res/1.2/JfK.uDwWqG6fa5RyKsgY8Q--~B/aD03MjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/hearst_mens_health_171/eba4cdd91300edf94ead3175ba89437b",
+    "confident" : "https://tenor.com/51JZ.gif",
+    "tentative" : "https://media.giphy.com/media/tpeASME9m853O/giphy.gif"
+  },
+  "sadness": {
+    "anger": "https://tenor.com/Yya1.gif",
+    "fear" : "https://i.imgur.com/9qz9uXK.jpg",
+    "joy" : "https://tenor.com/FzEz.gif",
+    "sadness" : "https://i.redd.it/j6i01trd540z.jpg",
+    "analytical" : "https://i.imgur.com/9qz9uXK.jpg",
+    "confident" : "https://i.kym-cdn.com/photos/images/original/001/291/307/65b.jpg",
+    "tentative" : "https://i.imgur.com/9qz9uXK.jpg"
+  },
+  "tentative": {
+    "anger": "https://tenor.com/Yya1.gif",
+    "fear" : "https://i.imgur.com/9qz9uXK.jpg",
+    "joy" : "https://tenor.com/bd2Kz.gif",
+    "sadness" : "https://i.redd.it/j6i01trd540z.jpg",
+    "analytical" : "https://media.giphy.com/media/b53xiN5B5blvi/giphy.gif",
+    "confident" : "https://tenor.com/bhzPR.gif",
+    "tentative" : "https://media.giphy.com/media/b53xiN5B5blvi/giphy.gif"
+  },
+  "analytical": {
+    "anger": "https://tenor.com/Yya1.gif",
+    "fear" : "https://i.imgur.com/9qz9uXK.jpg",
+    "joy" : "https://tenor.com/bd2Kz.gif",
+    "sadness" : "https://i.imgur.com/9qz9uXK.jpg",
+    "analytical" : "https://media.giphy.com/media/b53xiN5B5blvi/giphy.gif",
+    "confident" : "https://tenor.com/51JZ.gif",
+    "tentative" : "https://media.giphy.com/media/b53xiN5B5blvi/giphy.gif"
+  }
+}
